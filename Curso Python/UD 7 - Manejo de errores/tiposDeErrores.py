@@ -4,7 +4,7 @@
 
 # Error de sintaxis
 
-if True
+if True: #Imaginemos que no ponemos : , los IDEs lo detectan
     print("Hola")
 
 # Error en tiempo de ejecución
